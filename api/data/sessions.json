@@ -3630,6 +3630,20 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "New session title",
+      "description": "This is the greatest session ever",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "167620f4-572a-4423-ad9c-ae8e65439691"
+    },
+    {
+      "title": "New session title",
+      "description": "This is the greatest session ever",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "9997584a-4529-4005-8e24-b689b3fef385"
     }
   ]
 }
